@@ -1,6 +1,6 @@
 {
-  "name": "with-apollo",
-  "version": "1.0.0",
+  "name": "example-nextjs-apollo-auth0-8base",
+  "version": "0.1.0",
   "scripts": {
     "dev": "next",
     "build": "next build",
@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "@apollo/client": "3.1.1",
+    "@auth0/nextjs-auth0": "^0.16.0",
     "deepmerge": "^4.2.2",
     "graphql": "^15.3.0",
     "next": "latest",
