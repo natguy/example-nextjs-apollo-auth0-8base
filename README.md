@@ -1,4 +1,4 @@
-# What Is This?
+# A Test of Nextjs + Apollo + Auth0 + 8base?
 
 This project starts with [Nextjs's with-apollo example project](https://github.com/vercel/next.js/tree/canary/examples/with-apollo). It then adds [Auth0's Nextjs SDK](https://github.com/auth0/nextjs-auth0) for authentication (but not authorization) and [8base](https://www.8base.com/) as a hosted GraphQL API that can also handle user authorization.
 
